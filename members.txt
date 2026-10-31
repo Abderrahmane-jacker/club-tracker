@@ -1,1 +1,1 @@
-Member 1: Alice
+Leader: Bob
